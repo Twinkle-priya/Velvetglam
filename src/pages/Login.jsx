@@ -62,6 +62,7 @@ function Login() {
           </h1>
           <h1>Testing Branch</h1>
           <h2>New changes</h2>
+          <h3>Login page updated</h3>
           <form onSubmit={handleLogin}> {/* ✅ IMPORTANT FIX */}
 
             {/* Email */}
