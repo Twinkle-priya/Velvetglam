@@ -28,7 +28,7 @@ function Cart() {
         <h1 className="text-4xl font-bold text-pink-700 mb-10">
           Shopping Cart
         </h1>
-
+         <h2>Cart Page Updated</h2>
         {cartItems.length === 0 ? (
 
           <h2 className="text-2xl text-purple-500">

@@ -60,7 +60,8 @@ function Login() {
           <h1 className="text-2xl font-bold text-center text-#C2185B mb-8">
             💄✨ 1. Classic Beauty Login
           </h1>
-
+          <h1>Testing Branch</h1>
+          <h2>New changes</h2>
           <form onSubmit={handleLogin}> {/* ✅ IMPORTANT FIX */}
 
             {/* Email */}
